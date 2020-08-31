@@ -32,7 +32,7 @@ Main goal for folowing project to use the course knowledge to optimize the ChatB
 4. Run it: `./membot`.
 
 ## Project Task Details
-There are five additional major student tasks in the Memory Management chatbot project, which are:
+There are five major tasks in the Memory Management chatbot project, which are:
 
 ### Task 1 : Exclusive Ownership 1
 In file `chatgui.h` / `chatgui.cpp`, make `_chatLogic` an exclusive resource to class `ChatbotPanelDialog` using an appropriate smart pointer. Where required, make changes to the code such that data structures and function parameters reflect the new structure. 
